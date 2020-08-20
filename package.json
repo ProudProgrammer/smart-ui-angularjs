@@ -1,0 +1,13 @@
+{
+  "name": "smart-ui-angularjs",
+  "version": "1.0.0",
+  "description": "Smart Platform UI AngularJS",
+  "author": "Balazs Gabor <mail.gabor.balazs@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
